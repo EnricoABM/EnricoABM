@@ -34,6 +34,8 @@ My name is Enrico, I'm 19 years old and I have hearing loss in my left ear. I'm 
 
 ## Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EnricoABM&repo=Beecrowd_Python3.11&theme=dark)](https://github.com/EnricoABM/Beecrowd_Python3.11)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EnricoABM&repo=trilha-css-desafio-01&theme=dark)](https://github.com/EnricoABM/Beecrowd_Python3.11)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EnricoABM&repo=Exercicios_Python&theme=dark)](https://github.com/EnricoABM/Beecrowd_Python3.11)
 
 ### I'm currently studying:
 <div>
