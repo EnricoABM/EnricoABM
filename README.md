@@ -15,10 +15,10 @@ My name is Enrico, I'm 19 years old and I have hearing loss in my left ear. I'm 
 
 ## Social media
 <div>
-  <a href='bertozzienrico917@gmail.com' title='E-mail: bertozzienrico917@gmail.com' target='_blank'>
+  <a href='mailto:bertozzienrico917@gmail.com' title='E-mail: bertozzienrico917@gmail.com' target='_blank'>
     <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='Gmail Logo'>
   </a>
-  <a href='www.linkedin.com/in/enrico-bertozzi' title='LinkedIn' target='_blank'>
+  <a href='https://www.linkedin.com/in/enrico-bertozzi' title='LinkedIn' target='_blank'>
     <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='LinkedIn Logo'>
   </a>
 </div>
