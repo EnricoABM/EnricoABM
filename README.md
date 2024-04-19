@@ -11,7 +11,7 @@
  \$$   \$$   \$$$$$$$  \$$  \$$   \$$$$$$        \$$  \$$  \$$
 </pre>
 
-My name is Enrico, I'm 19 years old and I have hearing loss in my left ear. I'm Brazilian and live in the state of São Paulo, currently I'm a software engineer student and like understanding how things work and games.
+My name is Enrico, I'm 19 years old. I'm Brazilian and live in the state of São Paulo, currently I'm a software engineer student and like understanding how things work and games.
 
 ## Social media
 <div>
