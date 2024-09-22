@@ -1,19 +1,7 @@
-## About me
-<pre>
- __    __              __   __                   __   __   __
-|  \  |  \            |  \ |  \                 |  \ |  \ |  \
-| $$  | $$   ______   | $$ | $$   ______        | $$ | $$ | $$
-| $$__| $$  /      \  | $$ | $$  /      \       | $$ | $$ | $$
-| $$    $$ |  $$$$$$\ | $$ | $$ |  $$$$$$\      | $$ | $$ | $$
-| $$$$$$$$ | $$    $$ | $$ | $$ | $$  | $$       \$$  \$$  \$$
-| $$  | $$ | $$$$$$$$ | $$ | $$ | $$__/ $$       __   __   __
-| $$  | $$  \$$     \ | $$ | $$  \$$    $$      |  \ |  \ |  \
- \$$   \$$   \$$$$$$$  \$$  \$$   \$$$$$$        \$$  \$$  \$$
-</pre>
+# Perfil
 
-My name is Enrico, I'm 19 years old. I'm Brazilian and live in the state of São Paulo, currently I'm a software engineer student and like understanding how things work and games.
+Estudante de Engenharia de Software, cursando o 4° Semestre. Atualmente focado no desenvolvimento Back-End, utilizando a linguagem Java. 
 
-## Social media
 <div>
   <a href='mailto:bertozzienrico917@gmail.com' title='E-mail: bertozzienrico917@gmail.com' target='_blank'>
     <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='Gmail Logo'>
@@ -23,25 +11,25 @@ My name is Enrico, I'm 19 years old. I'm Brazilian and live in the state of São
   </a>
 </div>
 
-## GitHub Stats
-
-![Status](https://github-readme-stats.vercel.app/api?username=EnricoABM&show_icons=true&theme=dark&custom_title=Account-Status)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnricoABM&layout=compact&card_width=470&theme=dark&langs_count=6)
-
-
-
-
-## Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EnricoABM&repo=Beecrowd_Python3.11&theme=dark)](https://github.com/EnricoABM/Beecrowd_Python3.11)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EnricoABM&repo=trilha-css-desafio-01&theme=dark)](https://github.com/EnricoABM/trilha-css-desafio-01)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EnricoABM&repo=Small-Projects&theme=dark)](https://github.com/EnricoABM/Small-Projects)
-
-### I'm currently studying:
+### Tenho experiência com:
 <div>
-  <img width='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img width='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-  <img width='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original-wordmark.svg" />
+  <img width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tomcat/tomcat-original.svg" />
+  <img width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+  <img width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" />
 </div>
-          
-          
+
+### Atualmente estudando:
+<div>
+  <img width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+</div>
+
+###
+
+<div>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnricoABM&custom_title=Linguagens&card_width=359&theme=dark&langs_count=3" height=150px>
+ <img src="https://github-readme-stats.vercel.app/api?username=EnricoABM&show_icons=true&theme=dark&custom_title=Estatísticas" height=150px>
+</div>
