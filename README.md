@@ -13,7 +13,7 @@
   </a>
 </div>
 
-### Tenho experiência com:
+### Habilidades:
 <div>
   <img width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tomcat/tomcat-original.svg" />
@@ -29,7 +29,7 @@
   <img width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 </div>
 
-###
+### Estatísticas
 
 <div>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnricoABM&custom_title=Linguagens&card_width=359&theme=dark&langs_count=3" height=150px>
