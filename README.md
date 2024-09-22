@@ -1,6 +1,8 @@
 # Perfil
 
-Estudante de Engenharia de Software, cursando o 4° Semestre. Atualmente focado no desenvolvimento Back-End, utilizando a linguagem Java. 
+* Estudante de Engenharia de Software, cursando o 4° Semestre.
+* Atualmente focado no desenvolvimento Back-End, utilizando a linguagem Java.
+* Gosto de descobrir como as coisas funcionam, jogos e filmes. 
 
 <div>
   <a href='mailto:bertozzienrico917@gmail.com' title='E-mail: bertozzienrico917@gmail.com' target='_blank'>
