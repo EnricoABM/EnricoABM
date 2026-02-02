@@ -1,7 +1,7 @@
 # Perfil
 
-* Estudante de Engenharia de Software, cursando o 4° Semestre.
-* Atualmente focado no desenvolvimento Back-End, utilizando a linguagem Java.
+* Estudante de Engenharia de Software, cursando o 7° Semestre.
+* Atualmente focado no desenvolvimento Back-End e Mobile, utilizando linguagens como Java e Kotlin.
 * Gosto de descobrir como as coisas funcionam, jogos e filmes. 
 
 <div>
