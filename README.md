@@ -1,6 +1,6 @@
 # Enrico Miranda
 
-### Engenheiro de Software | Java Back-End Developer
+### Engenheiro de Software | Java Back-End Developer | Kotlin Mobile Developer
 
 Estudante do 7º semestre de Engenharia de Software. Foco no desenvolvimento de sistemas escaláveis utilizando o ecossistema Java e Spring Framework.
 
