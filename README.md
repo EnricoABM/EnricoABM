@@ -1,36 +1,38 @@
-# Perfil
+# Enrico Miranda
 
-* Estudante de Engenharia de Software, cursando o 7° Semestre.
-* Atualmente focado no desenvolvimento Back-End e Mobile, utilizando linguagens como Java e Kotlin.
-* Gosto de descobrir como as coisas funcionam, jogos e filmes. 
+### Engenheiro de Software | Java Back-End Developer
+
+Estudante do 7º semestre de Engenharia de Software. Foco no desenvolvimento de sistemas escaláveis utilizando o ecossistema Java e Spring Framework.
+
+* **Projetos Atuais:** Desenvolvimento de um sistema ERP para gestão clínica, focado em regras de negócio complexas e integridade referencial.
+* **Pesquisa Acadêmica:** Desenvolvimento de TCC em IoT e Mobile (Kotlin/Jetpack Compose) aplicado à medicina veterinária.
+* **Áreas de Estudo:** Fundamentos e Estruturas de Dados, Java 8 (Stream API), Spring Framework, API REST, Docker, Bancos de Dados Relacionais e Linux.
+* **Disponibilidade:** Região do Alto Tietê / São Paulo para posições de Estágio ou Júnior.
+
+---
+
+### Stack Tecnológica:
+
+<div align="left">
+  <img width='50' title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img width='50' title="Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+  <img width='50' title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img width='50' title="Kotlin" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
+  <img width='50' title="Jetpack Compose" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" />
+  <img width='50' title="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+  <img width='50' title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+  <img width='50' title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+</div>
+
+---
+
+### Contato:
 
 <div>
-  <a href='mailto:bertozzienrico917@gmail.com' title='E-mail: bertozzienrico917@gmail.com' target='_blank'>
+  <a href='mailto:bertozzienrico917@gmail.com' target="_blank">
     <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='Gmail Logo'>
   </a>
-  <a href='https://www.linkedin.com/in/enrico-bertozzi' title='LinkedIn' target='_blank'>
+  <a href='https://www.linkedin.com/in/enrico-bertozzi' target="_blank">
     <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='LinkedIn Logo'>
   </a>
-</div>
-
-### Habilidades:
-<div>
-  <img width='70' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img width='70' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img width='70' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img width='70' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" />
-</div>
-
-### Estudando Atualmente:
-<div>
-  <img width='70' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-  <img width='70' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img width='70' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-</div>
-
-### Estatísticas
-
-<div>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnricoABM&custom_title=Linguagens&card_width=359&theme=dark&langs_count=3" height=150px>
- <img src="https://github-readme-stats.vercel.app/api?username=EnricoABM&show_icons=true&theme=dark&custom_title=Estatísticas" height=150px>
 </div>
