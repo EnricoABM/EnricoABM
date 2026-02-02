@@ -4,7 +4,7 @@
 
 Estudante do 7º semestre de Engenharia de Software. Foco no desenvolvimento de sistemas escaláveis utilizando o ecossistema Java e Spring Framework.
 
-* **Projetos Atuais:** Desenvolvimento de um sistema ERP para gestão clínica, focado em regras de negócio complexas e integridade referencial.
+* **Projetos Atuais:** Desenvolvimento de um sistema ERP para gestão clínica.
 * **Pesquisa Acadêmica:** Desenvolvimento de TCC em IoT e Mobile (Kotlin/Jetpack Compose) aplicado à medicina veterinária.
 * **Áreas de Estudo:** Fundamentos e Estruturas de Dados, Java 8 (Stream API), Spring Framework, API REST, Docker, Bancos de Dados Relacionais e Linux.
 * **Disponibilidade:** Região do Alto Tietê / São Paulo para posições de Estágio ou Júnior.
